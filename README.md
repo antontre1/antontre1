@@ -1,8 +1,3 @@
-### Hi there 👋
-
-
-**antontre1/antontre1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h2 align="center">Hello! I'm Antonin</h2>
 <h3 align="center">Passionate about social app design, structuring relationships and Coding !</h3>
 
